@@ -44,3 +44,8 @@ npm run build
 ```sh
 npm run lint
 ```
+### 超级管理员账号
+```sh
+name: coderwhy
+password: 123456
+```
